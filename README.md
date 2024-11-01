@@ -79,7 +79,3 @@ Passionate about AI, finance, or machine learning? We'd love your input!
 ### 🏆 Acknowledgments
 
 Special thanks to the open-source community and researchers pushing the boundaries of Deep Reinforcement Learning.
-
----
-
-**Star ⭐ this repo if you find it interesting!**
